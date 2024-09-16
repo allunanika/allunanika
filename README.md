@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**allunanika/allunanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Novian**, a passionate full-stack developer focused on creating clean, efficient, and scalable solutions.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I work with:
+- **Languages:** PHP, TypeScript, Python, Golang
+- **Frameworks & Tools:** Next.js, Node.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other:** REST APIs, GraphQL, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do:
+- Build robust backend systems and efficient front-end applications
+- Focus on writing DRY, maintainable, and scalable code
+- Collaborate on open-source projects and share knowledge
+
+### 💡 Always Learning:
+- Exploring new tools and technologies to optimize performance and user experience
+- Currently diving deeper into cloud infrastructure and scaling large applications
+
+Let's connect and build something awesome together! 🚀
